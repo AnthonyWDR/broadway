@@ -30,13 +30,11 @@ h4 {
   background-color: dimgray;
   color: white;
 }
-nav {
+#nav {
   color: white;
+  font-size: 18px;
 }
-.btmnav {
-  font-size: 18px
+#btmnav {
+  font-size: 18px;
   color: white;
-}
-h5 {
-  font-size: 11px;
 }
