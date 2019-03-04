@@ -30,7 +30,7 @@ div {
   color: white;
   background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
 }
-span {
+#span {
   font-size: 11px;
   color: white;
   background-color: dimgray;
@@ -38,4 +38,14 @@ span {
 #nav {
   font-size: 18px;
   color: white;
+}
+#btmnav {
+  color: white;
+  background-color: dimgray;
+}
+.chicken {
+  background color: dimgray;
+  font-size: 11px;
+  color: white;
+
 }
